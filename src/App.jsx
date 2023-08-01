@@ -1,10 +1,10 @@
-import Form from './Reducer/Form Example/Form'
+import ShoppingCart from './Reducer/Cart Example/ShoppingCart'
 import './App.css';
 
 function App() {
   return (
     <>
-      <Form />
+      <ShoppingCart />
     </>
   );
 }
