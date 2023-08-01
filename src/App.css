@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+input[type="text"], select {
+  width: 50%;
+  padding: 16px 24px;
+  border-radius: 4px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+}
+
+
