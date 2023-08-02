@@ -1,10 +1,10 @@
-import ShoppingCart from './Reducer/Cart Example/ShoppingCart'
+import BasicEffect from './UseEffect/BasicExample/BasicEffect'
 import './App.css';
 
 function App() {
   return (
     <>
-      <ShoppingCart />
+      <BasicEffect />
     </>
   );
 }
