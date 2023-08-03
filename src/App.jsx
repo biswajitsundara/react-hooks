@@ -1,10 +1,10 @@
-import BasicEffect from './UseEffect/BasicExample/BasicEffect'
+import CleanupToggle from './UseEffect/Cleanup/CleanupToggle'
 import './App.css';
 
 function App() {
   return (
     <>
-      <BasicEffect />
+      <CleanupToggle />
     </>
   );
 }
