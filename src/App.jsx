@@ -1,10 +1,10 @@
-import DemoComponent from './CustomHook/LocalStorage/DemoComponent'
+import Todo from './CustomHook/ServiceCall/Todo'
 import './App.css';
 
 function App() {
   return (
     <>
-      <DemoComponent />
+      <Todo />
     </>
   );
 }
