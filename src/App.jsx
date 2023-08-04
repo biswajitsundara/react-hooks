@@ -1,10 +1,10 @@
-import CleanupToggle from './UseEffect/Cleanup/CleanupToggle'
+import DemoComponent from './CustomHook/LocalStorage/DemoComponent'
 import './App.css';
 
 function App() {
   return (
     <>
-      <CleanupToggle />
+      <DemoComponent />
     </>
   );
 }
